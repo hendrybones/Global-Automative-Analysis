@@ -1,0 +1,37 @@
+ProductKey,Make,Model,ModelYear,ImageFile
+1,Toyota,Corolla,2024,001_toyota-corolla.jpg
+2,Toyota,RAV4,2022,002_toyota-rav4.jpg
+3,Toyota,Land Cruiser,2022,003_toyota-land-cruiser.jpg
+4,Nissan,X-Trail,2026,004_nissan-x-trail.jpg
+5,Nissan,Navara,2023,005_nissan-navara.jpg
+6,Nissan,Patrol,2023,006_nissan-patrol.jpg
+7,Honda,Civic,2023,007_honda-civic.jpg
+8,Honda,CR-V,2022,008_honda-cr-v.jpg
+9,Mazda,CX-5,2024,009_mazda-cx-5.jpg
+10,Mazda,Mazda 3,2026,010_mazda-mazda-3.jpg
+11,BMW,X3,2026,011_bmw-x3.jpg
+12,BMW,3 Series,2022,012_bmw-3-series.jpg
+13,Mercedes-Benz,C-Class,2022,013_mercedes-benz-c-class.jpg
+14,Mercedes-Benz,GLC,2024,014_mercedes-benz-glc.jpg
+15,Volkswagen,Tiguan,2024,015_volkswagen-tiguan.jpg
+16,Volkswagen,Golf,2022,016_volkswagen-golf.jpg
+17,Hyundai,Tucson,2025,017_hyundai-tucson.jpg
+18,Hyundai,Elantra,2024,018_hyundai-elantra.jpg
+19,Kia,Sportage,2024,019_kia-sportage.jpg
+20,Kia,Sorento,2023,020_kia-sorento.jpg
+21,Ford,Ranger,2025,021_ford-ranger.jpg
+22,Ford,Everest,2023,022_ford-everest.jpg
+23,Subaru,Forester,2026,023_subaru-forester.jpg
+24,Lexus,RX,2023,024_lexus-rx.jpg
+25,Tesla,Model 3,2022,025_tesla-model-3.jpg
+26,Tesla,Model Y,2026,026_tesla-model-y.jpg
+27,BYD,Atto 3,2026,027_byd-atto-3.jpg
+28,BYD,Seal,2022,028_byd-seal.jpg
+29,Suzuki,Swift,2024,029_suzuki-swift.jpg
+30,Mitsubishi,Pajero Sport,2022,030_mitsubishi-pajero-sport.jpg
+31,Isuzu,D-Max,2024,031_isuzu-d-max.jpg
+32,Jeep,Wrangler,2023,032_jeep-wrangler.jpg
+33,Peugeot,3008,2022,033_peugeot-3008.jpg
+34,Volvo,XC60,2023,034_volvo-xc60.jpg
+35,Audi,Q5,2022,035_audi-q5.jpg
+36,Chevrolet,Trailblazer,2023,036_chevrolet-trailblazer.jpg
